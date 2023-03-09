@@ -8,7 +8,10 @@ Three features are axtracted: <br>
 - Raw Protein Sequence. 
 
 The implementation requires the following packages to be installed: 
-- Pytorch    pip install pytorch
+- Pytorch
+```
+pip install pytorch
+```
 - Graphein Libraray: 
     pip install graphein
 - DSSP:
