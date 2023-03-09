@@ -1,11 +1,11 @@
 # PPI-GCN
-Protein-Protein-Interaction-Sites-Prediction-By-GCN
-This project implements creating a GCN graph to predict the missing sites of Protein-Protein Interactions. 
-Three datasets are used in this implementation (Dset 186, Dset 72, and PDBset 164). 
-Three features are axtracted: 
-1- PSSM: PSI-BLAST
-2- Secondary Structure: DSSP Library
-3- Raw Protein Sequence. 
+## Protein-Protein-Interaction-Sites-Prediction-By-GCN
+This project implements creating a GCN graph to predict the missing sites of Protein-Protein Interactions. <br>
+Three datasets are used in this implementation (Dset 186, Dset 72, and PDBset 164). <br>
+Three features are axtracted: <br>
+1PSSM: PSI-BLAST
+2Secondary Structure: DSSP Library
+3Raw Protein Sequence. 
 
 The implementation requires the following packages to be installed: 
 - Pytorch
