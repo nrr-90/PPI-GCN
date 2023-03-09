@@ -21,19 +21,19 @@ pip install pytorch
   conda install -c salilab dssp
 ```
 - Pymol:
-  ```
+```
   conda install -c schrodinger pymol 
 ```
 - GetContacts
-  ```
+```
   conda install -c conda-forge vmd-python
   git clone https://github.com/getcontacts/getcontacts
 ```
 - Add folder to PATH
-  ```
+```
   echo "export PATH=\$PATH:`pwd`/getcontacts" >> ~/.bashrc
   source ~/.bashrc
- ```
+```
  To test the installation, run:
 ```
   cd getcontacts/example/5xnd
