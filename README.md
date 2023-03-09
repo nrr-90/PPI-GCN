@@ -9,9 +9,9 @@ Three features are axtracted: <br>
 
 The implementation requires the following packages to be installed: 
 - Pytorch
-  pip install pytorch
+    pip install pytorch
 - Graphein Libraray: 
-  pip install graphein
+    pip install graphein
 - DSSP:
   conda install -c salilab dssp
 - Pymol:
